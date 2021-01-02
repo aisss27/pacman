@@ -1,2 +1,3 @@
 # pacman
-game
+Game was written on Java programming language.
+
